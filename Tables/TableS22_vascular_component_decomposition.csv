@@ -1,0 +1,18 @@
+gene,context,rank,percentile,n_tfs,directional,activation_precision,fraction_enriched,enrichment_magnitude,kernel_signature,gtex_expression,tau,phenotype,temporal,kernel_components_mean,annotation_components_mean,composite,phenotype_categories
+ETV2,Endothelial (vascular),240,7.6,3166,0.57,0.307,0.993,0.24,0.483,0.0,1.0,0.0,0.0,0.519,0.25,0.3465,none
+FLI1,Endothelial (vascular),474,15.0,3166,0.57,0.307,0.993,0.24,0.266,0.0,0.97,0.0,0.176,0.475,0.287,0.3313,{'cancer_risk'}
+ERG,Endothelial (vascular),74,2.3,3166,0.57,0.251,0.994,0.254,0.0,0.565,0.934,0.0,0.176,0.414,0.419,0.419,{'cancer_risk'}
+SOX17,Endothelial (vascular),45,1.4,3166,0.57,0.307,0.993,0.24,0.228,0.0,0.952,0.333,1.0,0.468,0.571,0.4493,"{'cardiac_disorders', 'immune_cytopenia', 'vascular_disorders'}"
+TCF7L1,Endothelial (vascular),282,8.9,3166,0.607,0.234,0.964,0.259,0.024,0.378,0.751,0.0,0.0,0.418,0.282,0.3427,{'skin_disorders'}
+IRF1,Endothelial (vascular),505,16.0,3166,0.673,0.081,0.93,0.228,0.244,0.0,0.932,0.0,1.0,0.431,0.483,0.3301,"{'genomic_instability', 'cancer_risk', 'immune_cytopenia', 'immune_dysregulation', 'apoptosis_dysregulation'}"
+SMAD1,Endothelial (vascular),2046,64.6,3166,0.673,0.072,0.998,0.233,0.112,0.015,0.656,0.0,0.0,0.418,0.168,0.2562,none
+FOXC2,Endothelial (vascular),23,0.7,3166,0.57,0.307,0.993,0.24,0.0,0.965,1.0,0.0,0.0,0.422,0.491,0.5103,none
+FOXO1,Endothelial (vascular),255,8.1,3166,0.517,0.329,0.749,0.204,0.0,0.072,0.874,0.111,1.0,0.36,0.514,0.3449,"{'gi_dysmotility', 'metabolic_diabetes', 'cancer_risk', 'metabolic_lipid', 'vascular_disorders', 'cardiac_disorders', 'skeletal_disorders', 'hepatotoxicity', 'apoptosis_dysregulation'}"
+GATA4,CARDIOMYOCYTE (comparison),10,0.3,3166,0.628,0.243,0.994,0.138,0.0,0.707,1.0,0.25,1.0,0.401,0.739,0.6359,"{'cardiac_disorders', 'skeletal_disorders', 'metabolic_lipid', 'vascular_disorders'}"
+TBX5,CARDIOMYOCYTE (comparison),3,0.1,3166,0.407,0.307,0.993,0.163,0.0,0.935,1.0,1.0,1.0,0.374,0.984,0.7563,{'cardiac_disorders'}
+HAND2,CARDIOMYOCYTE (comparison),24,0.8,3166,0.425,0.244,0.994,0.137,0.0,0.175,1.0,0.5,1.0,0.36,0.669,0.4876,"{'cardiac_disorders', 'vascular_disorders'}"
+HNF4A,HEPATOCYTE (comparison),5,0.2,3166,0.664,0.297,0.761,0.177,0.325,1.0,1.0,0.333,1.0,0.445,0.833,0.7472,"{'skin_disorders', 'hepatotoxicity', 'metabolic_diabetes'}"
+FOXA2,HEPATOCYTE (comparison),22,0.7,3166,0.608,0.463,0.507,0.165,0.045,0.728,1.0,0.25,1.0,0.358,0.745,0.6231,"{'bleeding_coagulation', 'respiratory_disorders', 'hepatotoxicity', 'metabolic_diabetes'}"
+MYOD1,SKELETAL_MUSCLE (comparison),12,0.4,3166,0.43,0.307,1.0,0.142,0.0,1.0,1.0,0.0,0.0,0.376,0.5,0.6482,none
+ASCL1,NEURON_EXCITATORY (comparison),65,2.1,3166,0.758,0.221,0.738,0.124,0.737,0.366,1.0,0.0,0.0,0.516,0.342,0.526,none
+SOX2,NEURON_EXCITATORY (comparison),134,4.2,3166,0.535,0.312,0.993,0.15,0.26,0.408,0.873,0.0,0.0,0.45,0.32,0.4814,none
