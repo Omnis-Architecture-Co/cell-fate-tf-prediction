@@ -1,0 +1,101 @@
+target_cell,source_cell,clinical_note,rank,gene,score,percentile,tf_tier
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,1,PKP1,0.824569,0.03,2
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,2,SP8,0.820884,0.06,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,3,GRHL3,0.808597,0.09,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,4,IRF6,0.792485,0.13,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,5,ZNF750,0.772385,0.16,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,6,EN1,0.754200,0.19,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,7,BARX2,0.735398,0.22,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,8,ETV4,0.706648,0.25,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,9,HOXC13,0.697425,0.28,3
+Thyroid epithelial,FIBROBLAST,No direct reprogramming published; thyroid regeneration high clinical need,10,ELF5,0.697058,0.32,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,1,PDX1,0.796924,0.03,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,2,PTF1A,0.768796,0.06,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,3,NR5A2,0.714388,0.09,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,4,FOXA3,0.694269,0.13,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,5,ONECUT1,0.691560,0.16,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,6,MNX1,0.689955,0.19,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,7,HNF1B,0.672313,0.22,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,8,HNF1A,0.654680,0.25,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,9,RBPJL,0.653608,0.28,3
+Pituitary corticotroph,FIBROBLAST,Pituitary cell types lack published direct conversion protocols,10,MAFA,0.638677,0.32,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,1,PKP1,0.824569,0.03,2
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,2,SP8,0.820884,0.06,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,3,GRHL3,0.808597,0.09,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,4,IRF6,0.792485,0.13,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,5,ZNF750,0.772385,0.16,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,6,EN1,0.754200,0.19,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,7,BARX2,0.735398,0.22,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,8,ETV4,0.706648,0.25,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,9,HOXC13,0.697425,0.28,3
+Bladder urothelial,FIBROBLAST,Bladder epithelial cells; no cocktail published for direct conversion,10,ELF5,0.697058,0.32,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,1,FOXG1,0.745248,0.03,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,2,EN2,0.731059,0.06,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,3,NEUROD2,0.712526,0.09,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,4,TBR1,0.692311,0.13,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,5,ZIC1,0.684030,0.16,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,6,CUX2,0.673644,0.19,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,7,ZIC2,0.670833,0.22,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,8,MYT1L,0.667171,0.25,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,9,ACTL6B,0.639438,0.28,3
+Retinal ganglion neuron,FIBROBLAST,Critical for glaucoma therapy; limited published cocktails,10,MAPT,0.638611,0.32,2
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,1,FOXG1,0.745248,0.03,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,2,EN2,0.731059,0.06,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,3,NEUROD2,0.712526,0.09,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,4,TBR1,0.692311,0.13,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,5,ZIC1,0.684030,0.16,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,6,CUX2,0.673644,0.19,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,7,ZIC2,0.670833,0.22,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,8,MYT1L,0.667171,0.25,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,9,ACTL6B,0.639438,0.28,3
+Serotonergic neuron,FIBROBLAST,High psychiatric relevance; few published protocols,10,MAPT,0.638611,0.32,2
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,1,PAX2,0.836124,0.03,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,2,TFCP2L1,0.819726,0.06,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,3,LMX1B,0.805925,0.09,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,4,TFAP2B,0.730720,0.13,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,5,FOXI1,0.701358,0.16,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,6,WTIP,0.663607,0.19,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,7,ARNT2,0.641470,0.22,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,8,NRIP1,0.617383,0.25,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,9,ZHX3,0.605196,0.28,3
+Renal tubular epithelial,FIBROBLAST,Kidney regeneration target; limited direct conversion work,10,SALL1,0.566502,0.32,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,1,THRSP,0.757857,0.03,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,2,LEP,0.745158,0.06,2
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,3,CIDEA,0.682130,0.09,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,4,CIDEC,0.652444,0.13,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,5,MEOX1,0.603999,0.16,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,6,PPARG,0.596190,0.19,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,7,EBF2,0.594094,0.22,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,8,MEOX2,0.586314,0.25,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,9,CEBPA,0.580616,0.28,3
+Brown adipocyte,FIBROBLAST,Metabolic disease target; few direct reprogramming studies,10,TCF15,0.565552,0.32,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,1,DRGX,0.675098,0.03,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,2,FOXG1,0.668131,0.06,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,3,TBR1,0.645043,0.09,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,4,SOHLH1,0.643099,0.13,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,5,RORB,0.625136,0.16,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,6,ZFHX2,0.621919,0.19,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,7,NPAS1,0.597877,0.22,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,8,FEZF2,0.595375,0.25,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,9,CHD5,0.593603,0.28,3
+Oligodendrocyte,FIBROBLAST,Myelin repair for MS/spinal cord injury; emerging field,10,PAX7,0.593542,0.32,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,1,TBX22,0.671019,0.03,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,2,HMX3,0.654974,0.06,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,3,POU3F4,0.650272,0.09,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,4,IKZF2,0.650272,0.13,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,5,ATOH1,0.649228,0.16,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,6,HMX2,0.633497,0.19,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,7,THRB,0.626706,0.22,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,8,RFC4,0.608287,0.25,2
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,9,POU4F3,0.601642,0.28,3
+Inner ear hair cell,ASTROCYTE,Hearing loss therapy; ATOH1 known but multi-factor cocktails lacking,10,BDP1,0.579386,0.32,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,1,SOHLH1,0.671717,0.03,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,2,FEZF2,0.669310,0.06,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,3,STAT4,0.628448,0.09,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,4,CHD5,0.617029,0.13,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,5,RORB,0.606795,0.16,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,6,TBR1,0.599338,0.19,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,7,PTPRN,0.591329,0.22,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,8,DDN,0.591314,0.25,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,9,LHX2,0.589799,0.28,3
+Microglia,MACROPHAGE,Neuroinflammation research; few published direct conversion protocols,10,MAPT,0.583377,0.32,2
