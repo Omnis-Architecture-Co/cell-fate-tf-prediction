@@ -1,0 +1,18 @@
+gene,family,omim_hpo_phenotype_score,omim_hpo_covered,phenotype_categories,gtex_expression_score,final_rank,final_percentile,interpretation
+ETV2,Endothelial (vascular),0.0,no,none,0.0,240,7.6,No OMIM/HPO phenotype or GTEx annotation; annotation gap
+FLI1,Endothelial (vascular),0.0,no,cancer_risk,0.0,474,15.0,No OMIM/HPO phenotype or GTEx annotation; annotation gap
+ERG,Endothelial (vascular),0.0,no,cancer_risk,0.565,74,2.3,GTEx coverage only; partial annotation
+SOX17,Endothelial (vascular),0.333,yes,"cardiac_disorders', 'immune_cytopenia', 'vascular_disorders",0.0,45,1.4,Phenotype coverage only; partial annotation
+TCF7L1,Endothelial (vascular),0.0,no,skin_disorders,0.378,282,8.9,GTEx coverage only; partial annotation
+IRF1,Endothelial (vascular),0.0,no,"genomic_instability', 'cancer_risk', 'immune_cytopenia', 'immune_dysregulation', 'apoptosis_dysregulation",0.0,505,16.0,No OMIM/HPO phenotype or GTEx annotation; annotation gap
+SMAD1,Endothelial (vascular),0.0,no,none,0.015,2046,64.6,No OMIM/HPO phenotype or GTEx annotation; annotation gap
+FOXC2,Endothelial (vascular),0.0,no,none,0.965,23,0.7,GTEx coverage only; partial annotation
+FOXO1,Endothelial (vascular),0.111,yes,"gi_dysmotility', 'metabolic_diabetes', 'cancer_risk', 'metabolic_lipid', 'vascular_disorders', 'cardiac_disorders', 'skeletal_disorders', 'hepatotoxicity', 'apoptosis_dysregulation",0.072,255,8.1,Phenotype coverage only; partial annotation
+GATA4,CARDIOMYOCYTE (comparison),0.25,yes,"cardiac_disorders', 'skeletal_disorders', 'metabolic_lipid', 'vascular_disorders",0.707,10,0.3,High phenotype + GTEx coverage; ranks in top 5%
+TBX5,CARDIOMYOCYTE (comparison),1.0,yes,cardiac_disorders,0.935,3,0.1,High phenotype + GTEx coverage; ranks in top 5%
+HAND2,CARDIOMYOCYTE (comparison),0.5,yes,"cardiac_disorders', 'vascular_disorders",0.175,24,0.8,Phenotype coverage only; partial annotation
+HNF4A,HEPATOCYTE (comparison),0.333,yes,"skin_disorders', 'hepatotoxicity', 'metabolic_diabetes",1.0,5,0.2,High phenotype + GTEx coverage; ranks in top 5%
+FOXA2,HEPATOCYTE (comparison),0.25,yes,"bleeding_coagulation', 'respiratory_disorders', 'hepatotoxicity', 'metabolic_diabetes",0.728,22,0.7,High phenotype + GTEx coverage; ranks in top 5%
+MYOD1,SKELETAL_MUSCLE (comparison),0.0,no,none,1.0,12,0.4,GTEx coverage only; partial annotation
+ASCL1,NEURON_EXCITATORY (comparison),0.0,no,none,0.366,65,2.1,GTEx coverage only; partial annotation
+SOX2,NEURON_EXCITATORY (comparison),0.0,no,none,0.408,134,4.2,GTEx coverage only; partial annotation
