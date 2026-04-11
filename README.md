@@ -31,7 +31,7 @@ Twenty-three supplementary data tables in CSV format, numbered S1–S23 to match
 | TableS17_top50_prediction_detail.csv | Top-50 prediction detail: 6,700 gene-level entries across all cocktails with rank, score, percentile, and category |
 | TableS18_method_comparison.csv | Method comparison (Mogrify head-to-head): per-factor ranks for OMNIS vs Mogrify on 4 cell type conversions. OMNIS 10/12 (83%) vs Mogrify 7/12 (58%) |
 | TableS19_prospective_predictions.csv | Prospective predictions: top 10 candidate TFs for 10 underexplored cell types (100 predictions total) |
-| TableS20_genomic_programs.csv | Genomic programs: 1,891 programs across 24 chromosomes from the protein_program_map |
+| TableS20_genomic_programs.csv | Genomic programs: 1,891 programs across 24 chromosomes from the protein_program_map. **Note: file is 54 MB and exceeds GitHub's per-file limit; full file available in the Zenodo zip archive.** |
 | TableS21_reference_gene_lists.csv | Reference gene lists: ESSENTIAL_CORE (54), OMIM_disease (113), tumor_suppressor (36), housekeeping (34), oncogene (37) from community_validations.py |
 | TableS22_vascular_component_decomposition.csv | Vascular decomposition: all 9 per-component scores for 17 vascular/endothelial and comparison genes |
 | TableS23_phenotype_annotation_audit.csv | Phenotype annotation audit: OMIM/HPO coverage for each gene in S22; explains vascular family annotation gap (2/9 vascular genes covered vs. 7/17 overall) |
