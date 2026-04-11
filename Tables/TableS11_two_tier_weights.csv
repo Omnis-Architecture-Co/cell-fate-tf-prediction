@@ -1,0 +1,11 @@
+component,tier_a_weight,tier_b_weight,description
+dir,0.0734,0.0805,Directional marker connectivity
+act,0.0874,0.0330,Activation precision
+frac,0.0856,0.0407,Enrichment fraction
+enr,0.0321,0.0297,Enrichment magnitude
+gtex,0.2912,0.1944,GTEx tissue expression specificity
+tau,0.2084,0.2192,Tissue specificity index
+pheno,0.0853,0.3410,Phenotype/disease association
+kern,0.0933,0.0491,Kernel disruption signature
+temp,0.0434,0.0123,Developmental temporal score
+src_pen,0.2605,0.2759,Source connectivity penalty
