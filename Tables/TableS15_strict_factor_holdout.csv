@@ -1,0 +1,8 @@
+analysis,n_factor_instances,n_hits_top5pct,top5_pct_recall,denominator,notes
+Set 2 — Full set (all factors),133,86,64.7,"3,166 Tier 2+ transcription factors",All Set 2 factors including those shared with Set 1
+Set 2 — Strict holdout (Set 1-exclusive factors removed),67,43,64.2,"3,166 Tier 2+ transcription factors",55 unique novel genes; 41 shared factors excluded (66 instances)
+Set 3 — Full set (blind held-out),49,32,65.3,"3,166 Tier 2+ transcription factors",Scored after weight calibration frozen; no parameter revisitation
+Set 3 — Strict holdout (factors in Sets 1+2 removed),13,4,30.8,"3,166 Tier 2+ transcription factors",Wide 95% CI (11.0–58.7%) due to small n; point estimate exceeds random (5%)
+
+# Shared factors excluded from strict holdout analyses:
+# ASCL1; CEBPA; DLX2; ERG; ETV2; FLI1; FOXA1; FOXA2; GATA1; GATA2; GATA4; HAND2; IRF4; KLF4; LMO2; LMX1B; MAFA; MEF2C; MESP1; MYC; MYOCD; MYT1L; NEUROD1; NEUROG2; NEUROG3; NFIB; NKX2-2; NR4A2; OLIG2; PAX4; PAX6; PDX1; PPARG; RUNX2; SOX10; SOX2; SOX9; SP7; SPI1; TAL1; TBX5
