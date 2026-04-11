@@ -1,5 +1,5 @@
-# OMNIS Biological Simulator — Paper 2 Zenodo Supplementary Package
-### "Kernel-based prediction of cell fate reprogramming factors from protein interaction disruption profiles"
+# Supplementary Materials
+### "The genomic kernel predicts cell fate transcription factors"
 **OMNIS Architecture Co. | Jasmine Levy**
 Generated: 2026-04-11
 
